@@ -1,3 +1,5 @@
+#Kovalenko Nikita cs-2434
+
 def merge_sort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
@@ -31,3 +33,4 @@ def merge_sort(arr):
 
 arr = [12, 10, 13, 20, 24]
 print(merge_sort(arr))
+

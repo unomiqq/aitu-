@@ -1,3 +1,5 @@
+#Kovalenko Nikita cs-2434
+
 def partition(arr, low, high):
     pivot = arr[high]
     i = low - 1
